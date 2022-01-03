@@ -1,0 +1,10 @@
+2022-01-02 14:23:04,656:mylog:init_fixture:conftest.py:11:INFO:==========   class级  前置条件：打开Chrome浏览器，访问登录页面    ==========
+2022-01-02 14:23:12,170:mylog:click_element:basepage.py:79:INFO:在 点击 导航栏 BRIDESMAIDS 行为,点击元素：('xpath', '//a[@class="nav-a-link"]')
+2022-01-02 14:23:12,171:mylog:__waite_ele_visible:basepage.py:28:INFO:在 点击 导航栏 BRIDESMAIDS 行为,等待元素：('xpath', '//a[@class="nav-a-link"]') 可见
+2022-01-02 14:23:12,198:mylog:__waite_ele_visible:basepage.py:44:INFO:等待元素成功，等待时间为:-0.02560138702392578
+2022-01-02 14:23:12,198:mylog:get_element:basepage.py:53:INFO:在  点击 导航栏 BRIDESMAIDS  行为,查找元素：('xpath', '//a[@class="nav-a-link"]')
+2022-01-02 14:23:18,412:mylog:click_element:basepage.py:79:INFO:在 随机 点击BD列表页商品 行为,点击元素：('xpath', '//a[@data-datalayer-category="PlusSizeGowns"]')
+2022-01-02 14:23:18,413:mylog:__waite_ele_visible:basepage.py:28:INFO:在 随机 点击BD列表页商品 行为,等待元素：('xpath', '//a[@data-datalayer-category="PlusSizeGowns"]') 可见
+2022-01-02 14:23:18,495:mylog:__waite_ele_visible:basepage.py:44:INFO:等待元素成功，等待时间为:-0.08201932907104492
+2022-01-02 14:23:18,495:mylog:get_element:basepage.py:53:INFO:在  随机 点击BD列表页商品  行为,查找元素：('xpath', '//a[@data-datalayer-category="PlusSizeGowns"]')
+2022-01-02 14:23:18,743:mylog:init_fixture:conftest.py:17:INFO:==========   class级  后置条件：关闭浏览器    ==========
